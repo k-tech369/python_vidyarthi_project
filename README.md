@@ -9,15 +9,15 @@ The system displays a series of questions, collects user responses, evaluates sc
 
 **This project demonstrates:**
 
-Modular programming
+1.Modular programming
 
-File handling
+2.File handling
 
-Input validation
+3.Input validation
 
-Data processing
+4.Data processing
 
-User-friendly output formatting
+5.User-friendly output formatting
 
 
 ## Features
@@ -74,7 +74,7 @@ python main.py
 
 You can test the application through manual test cases:
 
-**Test Case 1 **– Correct Input
+**Test Case 1**– Correct Input
 
 Input: Valid numeric answers (1–5)
 
@@ -90,12 +90,12 @@ Output: System should show:
 "Invalid Input. Please enter a number between 1–5."
 
 
-**Test Case 3 **– Extreme Personality
+**Test Case 3**– Extreme Personality
 Input: Mostly 1s or 5s
 Output: Strongly leaning MBTI type
 
 
-**Test Case 4 **– Mixed Responses
+**Test Case 4**– Mixed Responses
 Output: Balanced or neutral MBTI type
 
 
