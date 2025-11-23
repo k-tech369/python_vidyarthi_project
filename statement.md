@@ -41,8 +41,8 @@ Generate final MBTI type (e.g., INFP, ESTJ)
 Display explanation for the personality type
 
 
-**#Secondary Scope
-**
+**#Secondary Scope**
+
 Modular code organization
 
 Clean program flow with functions
